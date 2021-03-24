@@ -1,0 +1,2 @@
+# Intelligent_mining_helmet
+In recent days coal mining has been a very dangerous activity that can result in a number of  adverse effects on the environment for example during mining operations methane, a known  greenhouse gas, may be released into the air. Underground mining hazards include suffocation,  gas poisoning, roof collapse and gas explosions. Keeping all these aspects in mind design a  system, i.e. used for monitoring the hazardous gases, abnormal temperature conditions and the  humidity levels in the air.
